@@ -2,3 +2,15 @@ C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Busin
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\obj\Debug\netcoreapp3.1\OrderingSample.Business.AssemblyInfoInputs.cache
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\obj\Debug\netcoreapp3.1\OrderingSample.Business.AssemblyInfo.cs
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\obj\Debug\netcoreapp3.1\OrderingSample.Business.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\bin\Debug\netcoreapp3.1\OrderingSample.Business.deps.json
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\bin\Debug\netcoreapp3.1\OrderingSample.Business.dll
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\bin\Debug\netcoreapp3.1\OrderingSample.Business.pdb
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\bin\Debug\netcoreapp3.1\OrderingSample.Core.dll
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\bin\Debug\netcoreapp3.1\OrderingSample.DataAccess.dll
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\bin\Debug\netcoreapp3.1\OrderingSample.Entities.dll
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\bin\Debug\netcoreapp3.1\OrderingSample.Core.pdb
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\bin\Debug\netcoreapp3.1\OrderingSample.DataAccess.pdb
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\bin\Debug\netcoreapp3.1\OrderingSample.Entities.pdb
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\obj\Debug\netcoreapp3.1\OrderingSample.Business.csproj.CopyComplete
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\obj\Debug\netcoreapp3.1\OrderingSample.Business.dll
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\obj\Debug\netcoreapp3.1\OrderingSample.Business.pdb

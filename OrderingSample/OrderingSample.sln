@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderingSample.Entities", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderingSample.Core", "OrderingSample.Core\OrderingSample.Core.csproj", "{965E578C-B5C9-4FF0-B041-B9B979C41BF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderingSample.DataAccess", "OrderingSample.DataAccess\OrderingSample.DataAccess.csproj", "{D02C15AF-5C5D-4C55-B0ED-795DB64D7719}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderingSample.DataAccess", "OrderingSample.DataAccess\OrderingSample.DataAccess.csproj", "{D02C15AF-5C5D-4C55-B0ED-795DB64D7719}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderingSample.Business", "OrderingSample.Business\OrderingSample.Business.csproj", "{00354398-0AB0-4B1D-A283-B58D2642EAB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderingSample.Business", "OrderingSample.Business\OrderingSample.Business.csproj", "{00354398-0AB0-4B1D-A283-B58D2642EAB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderingSample.API", "OrderingSample.API\OrderingSample.API.csproj", "{195B379B-28A6-4EE3-9003-7D128B75AD34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{00354398-0AB0-4B1D-A283-B58D2642EAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00354398-0AB0-4B1D-A283-B58D2642EAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00354398-0AB0-4B1D-A283-B58D2642EAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{195B379B-28A6-4EE3-9003-7D128B75AD34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195B379B-28A6-4EE3-9003-7D128B75AD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195B379B-28A6-4EE3-9003-7D128B75AD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195B379B-28A6-4EE3-9003-7D128B75AD34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

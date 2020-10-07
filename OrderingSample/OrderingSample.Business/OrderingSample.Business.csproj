@@ -5,11 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Concrete\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\OrderingSample.Core\OrderingSample.Core.csproj" />
+    <ProjectReference Include="..\OrderingSample.DataAccess\OrderingSample.DataAccess.csproj" />
     <ProjectReference Include="..\OrderingSample.Entities\OrderingSample.Entities.csproj" />
   </ItemGroup>
 
