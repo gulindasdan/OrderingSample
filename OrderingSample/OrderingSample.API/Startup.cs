@@ -25,7 +25,8 @@ namespace OrderingSample.API
            // services.AddSingleton<IOrderRepository, OrderRepository>();
             services.AddSingleton<ICustomerService, CustomerManager>();
             //services.AddSingleton<ICustomerRepository, CustomerRepository>();
-            services.AddSwaggerDocument();
+           services.AddScoped<DbContext,OrderDbContext>();
+ services.AddSwaggerDocument();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
