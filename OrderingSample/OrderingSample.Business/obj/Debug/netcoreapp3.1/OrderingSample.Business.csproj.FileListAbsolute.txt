@@ -1,0 +1,4 @@
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\obj\Debug\netcoreapp3.1\OrderingSample.Business.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\obj\Debug\netcoreapp3.1\OrderingSample.Business.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\obj\Debug\netcoreapp3.1\OrderingSample.Business.AssemblyInfo.cs
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Business\obj\Debug\netcoreapp3.1\OrderingSample.Business.csproj.CoreCompileInputs.cache

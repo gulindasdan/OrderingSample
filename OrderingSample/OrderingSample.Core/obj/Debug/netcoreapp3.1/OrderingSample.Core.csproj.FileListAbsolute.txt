@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Core\bin\Debug\netcoreapp3.1\OrderingSample.Core.deps.json
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Core\bin\Debug\netcoreapp3.1\OrderingSample.Core.dll
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Core\obj\Debug\netcoreapp3.1\OrderingSample.Core.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Core\obj\Debug\netcoreapp3.1\OrderingSample.Core.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Core\obj\Debug\netcoreapp3.1\OrderingSample.Core.AssemblyInfo.cs
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Core\bin\Debug\netcoreapp3.1\OrderingSample.Core.pdb
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Core\obj\Debug\netcoreapp3.1\OrderingSample.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Core\obj\Debug\netcoreapp3.1\OrderingSample.Core.dll
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.Core\obj\Debug\netcoreapp3.1\OrderingSample.Core.pdb
