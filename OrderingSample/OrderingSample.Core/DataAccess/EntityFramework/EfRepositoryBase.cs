@@ -26,6 +26,7 @@ namespace OrderingSample.Core.Entity.EntityFramework
         {
             await _dbSet.AddAsync(entity);
             await _context.SaveChangesAsync();
+            
         }
 
         public async Task AddRangeAsync(IEnumerable<TEntity> entities)
