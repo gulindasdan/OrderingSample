@@ -14,7 +14,7 @@ namespace OrderingSample.API.Controllers
     [ApiController]
     public class CustomerController : ControllerBase
     {
-        readonly ICustomerService _customerService;
+        protected readonly ICustomerService _customerService;
         public CustomerController(ICustomerService customerService)
         {
             _customerService = customerService;

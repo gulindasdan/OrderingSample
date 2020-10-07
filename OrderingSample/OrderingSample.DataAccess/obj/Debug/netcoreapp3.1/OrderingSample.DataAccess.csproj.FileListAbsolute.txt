@@ -10,8 +10,8 @@ C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.DataA
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.DataAccess\bin\Debug\netcoreapp3.1\OrderingSample.DataAccess.pdb
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.DataAccess\bin\Debug\netcoreapp3.1\OrderingSample.Core.pdb
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.DataAccess\bin\Debug\netcoreapp3.1\OrderingSample.Entities.pdb
-C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.DataAccess\obj\Debug\netcoreapp3.1\OrderingSample.DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.DataAccess\obj\Debug\netcoreapp3.1\OrderingSample.DataAccess.csproj.CopyComplete
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.DataAccess\obj\Debug\netcoreapp3.1\OrderingSample.DataAccess.dll
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.DataAccess\obj\Debug\netcoreapp3.1\OrderingSample.DataAccess.pdb
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.DataAccess\obj\Debug\netcoreapp3.1\OrderingSample.DataAccess.genruntimeconfig.cache
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.DataAccess\obj\Debug\netcoreapp3.1\OrderingSample.DataAccess.csproj.CoreCompileInputs.cache

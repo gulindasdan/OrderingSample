@@ -69,12 +69,12 @@ C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\b
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\bin\Debug\netcoreapp3.1\OrderingSample.Business.pdb
-C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\obj\Debug\netcoreapp3.1\OrderingSample.API.csproj.CoreCompileInputs.cache
-C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\obj\Debug\netcoreapp3.1\OrderingSample.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\obj\Debug\netcoreapp3.1\OrderingSample.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\obj\Debug\netcoreapp3.1\OrderingSample.API.csproj.CopyComplete
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\obj\Debug\netcoreapp3.1\staticwebassets\OrderingSample.API.StaticWebAssets.Manifest.cache
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\obj\Debug\netcoreapp3.1\staticwebassets\OrderingSample.API.StaticWebAssets.xml
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\obj\Debug\netcoreapp3.1\OrderingSample.API.dll
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\obj\Debug\netcoreapp3.1\OrderingSample.API.pdb
 C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\obj\Debug\netcoreapp3.1\OrderingSample.API.genruntimeconfig.cache
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\obj\Debug\netcoreapp3.1\OrderingSample.API.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\obj\Debug\netcoreapp3.1\OrderingSample.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Desktop\gitRepo\OrderingSample\OrderingSample\OrderingSample.API\obj\Debug\netcoreapp3.1\OrderingSample.API.MvcApplicationPartsAssemblyInfo.cache

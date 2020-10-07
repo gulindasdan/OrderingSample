@@ -1,16 +1,19 @@
 using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using OrderingSample.Business.Abstract;
 using OrderingSample.Business.Concrete;
 using OrderingSample.DataAccess.Abstract;
 using OrderingSample.DataAccess.Concrete;
+using OrderingSample.DataAccess.Context;
 
 namespace OrderingSample.API
 {
@@ -21,12 +24,15 @@ namespace OrderingSample.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddSingleton<IOrderService, OrderManager>();
-           // services.AddSingleton<IOrderRepository, OrderRepository>();
-            services.AddSingleton<ICustomerService, CustomerManager>();
-            //services.AddSingleton<ICustomerRepository, CustomerRepository>();
-           services.AddScoped<DbContext,OrderDbContext>();
- services.AddSwaggerDocument();
+            services.AddScoped<DbContext,OrderDbContext>();
+            services.AddTransient<OrderManager>();
+            services.AddTransient<OrderRepository>();
+            services.AddTransient<ICustomerService, CustomerManager>();
+            services.AddTransient<ICustomerRepository, CustomerRepository>();
+            //services.AddEntityFrameworkSqlServer()
+            //        .AddDbContext<OrderDbContext>
+            //        (option => option.UseSqlServer(Configuration["database:connection"]));
+            services.AddSwaggerDocument();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

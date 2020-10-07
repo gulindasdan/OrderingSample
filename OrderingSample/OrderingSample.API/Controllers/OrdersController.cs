@@ -14,7 +14,7 @@ namespace OrderingSample.API.Controllers
     [ApiController]
     public class OrdersController : ControllerBase
     {
-        readonly IOrderService _orderService;
+        protected readonly IOrderService _orderService;
         public OrdersController(IOrderService orderService)
         {
             _orderService = orderService;
